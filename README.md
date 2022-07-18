@@ -13,7 +13,7 @@ I’m a results-driven, analytical thinker with over 11 years of experience in T
 * Git/GitHub
 
 **Contact**
- > Want to say hello? you can reach me on: ogunye_kunmi@yahoo.com, Tel: +234-8028324372
+> 📫 How to reach me: Email: ogunye_kunmi@yahoo.com, Tel: +234-8028324372
 <!--
 **ogunye/ogunye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
