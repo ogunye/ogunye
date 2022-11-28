@@ -9,8 +9,11 @@ I’m a results-driven, analytical thinker with over 11 years of experience in T
 * Dapper
 * SQL/T-SQL
 * Python
+* Docker Container
+* Postman
 * CI/CD pipeline: Azure DevOps Server, GitLab
 * Git/GitHub
+* React Native
 
 **Contact**
 > 📫 How to reach me: Email: ogunye_kunmi@yahoo.com, Tel: +234-8028324372
