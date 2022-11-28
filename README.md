@@ -19,7 +19,7 @@ I'll be building each API-services using different technologies like REST API an
 * React Native
 
 **Contact**
-> 📫 How to reach me: Email: ogunye_kunmi@yahoo.com, Tel: +234-8028324372
+> 📫 How to reach me: Email: ogunyekunmi@gmail.com, Tel: +234-8028324372
 <!--
 **ogunye/ogunye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
