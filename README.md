@@ -1,6 +1,7 @@
 # About Me
 ### Hi there 👋, I'm Kunmi Ogunye glad to have you view my profile.
 I’m a results-driven, analytical thinker with over 11 years of experience in Toll Infrastructure Development. Now becoming a software engineer, I specialize in backend and database application development using DevOps approach. I have over 4+ years of coding experience. Experienced in Agile mythologies, and various design principles/architectural patterns. Able to design software documentation and work within a team or standalone in a project.
+
 ###🔭 I’m currently working on an eCommerce solution using Microservices architecture, .NET 6, SQL Server and Stripe payment gateway demo. I'll be building each API-services using different technologies like REST API and gRPC; also implementing each Service layer with Onion architecture, CQRS, Repository pattern, Dependency Injection and IoC. This is a demo eCommerce solution which I presently using to train new interns in Application Development with a DevOps environment using GitHub, Dockers container, and Azure DevOps. Other projects include an HR-Management solution.
 ### SKills
 * .NET Core
