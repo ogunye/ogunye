@@ -11,14 +11,15 @@ Within my GitHub repositories, you'll find a collection of projects that demonst
 ### SKills
 * .NET
 * C#
-* ASP.NET Core, EntityFrameworkCore
+* ASP.NET Core
+* EntityFrameworkCore
 * Dapper
 * SQL/T-SQL
 * Python
 * Docker Container
 * Postman
 * Azure Administration
-* CI/CD pipeline: Azure DevOps Server, GitLab
+* CI/CD pipeline: Azure DevOps, GitLab
 * Git/GitHub
 * React Native
 
