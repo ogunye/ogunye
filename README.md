@@ -1,11 +1,15 @@
 # About Me
-### Hi there 👋, I'm Kunmi Ogunye glad to have you view my profile.
-I’m a results-driven, analytical thinker with over 11 years of experience in Toll Infrastructure Development. Now becoming a software engineer, I specialize in backend and database application development using DevOps approach. I have over 4+ years of coding experience. Experienced in Agile mythologies, and various design principles/architectural patterns. Able to design software documentation and work within a team or standalone in a project.
+### Welcome to my GitHub Account 👋,Hi, I'm Kunmi Ogunye 
+Discover my world of coding, collaboration, and creativity. As a passionate developer, I strive to build innovative solutions and contribute to open-source projects that make a positive impact on the tech community. Here, you'll find a diverse range of repositories showcasing my skills, projects, and interests.
 
-### 🔭  I’m currently working on an eCommerce solution using Microservices architecture, .NET 6, SQL Server and Stripe payment gateway demo.
-I'll be building each API-services using different technologies like REST API and gRPC; also implementing each Service layer with Onion architecture, CQRS, Repository pattern, Dependency Injection and IoC. This is a demo eCommerce solution which I'm presently using to train new interns in Application Development within a DevOps environment using GitHub, Dockers container, and Azure DevOps. Other projects include an HR-Management solution.
+### 🔭 Who am I?
+I'm a dedicated software engineer with expertise in various programming languages, frameworks, and technologies. My journey in the world of coding began in 2020, and since then, I've embarked on numerous exciting projects, honing my skills and expanding my knowledge along the way.
+
+### 🔔What will you find here?
+Within my GitHub repositories, you'll find a collection of projects that demonstrate my technical proficiency and problem-solving abilities. Whether it's web development, machine learning, mobile apps, or any other area of software development, I enjoy exploring different domains and pushing the boundaries of what's possible.
+
 ### SKills
-* .NET Core
+* .NET
 * C#
 * ASP.NET Core, EntityFrameworkCore
 * Dapper
