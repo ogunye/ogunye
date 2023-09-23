@@ -24,7 +24,7 @@ Within my GitHub repositories, you'll find a collection of projects that demonst
 * React Native
 
 **Contact**
-> 📫 How to reach me: Email: ogunyekunmi@gmail.com, Tel: +234-8028324372
+> 📫 How to reach me: Email: ogunyekunmi@gmail.com, Tel: +44 7785364352
 <!--
 **ogunye/ogunye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
