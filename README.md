@@ -1,41 +1,60 @@
-# About Me
-### Welcome to my GitHub Account 👋,Hi, I'm Kunmi Ogunye 
-Discover my world of coding, collaboration, and creativity. As a passionate developer, I strive to build innovative solutions and contribute to open-source projects that make a positive impact on the tech community. Here, you'll find a diverse range of repositories showcasing my skills, projects, and interests.
+# Olufikunmi Ogunye
 
-### 🔭 Who am I?
-I'm a dedicated software engineer with expertise in various programming languages, frameworks, and technologies. My journey in the world of coding began in 2020, and since then, I've embarked on numerous exciting projects, honing my skills and expanding my knowledge along the way.
+Welcome to my GitHub profile! I'm a seasoned software developer with extensive experience in .NET technologies, cloud services, and front-end development. I am passionate about building scalable applications, optimizing development workflows, and mentoring the next generation of developers.
 
-### 🔔What will you find here?
-Within my GitHub repositories, you'll find a collection of projects that demonstrate my technical proficiency and problem-solving abilities. Whether it's web development, machine learning, mobile apps, or any other area of software development, I enjoy exploring different domains and pushing the boundaries of what's possible.
+## 🛠️ Technical Skills
 
-### SKills
-* .NET
-* C#
-* ASP.NET Core
-* EntityFrameworkCore
-* Dapper
-* SQL/T-SQL
-* Python
-* Docker Container
-* Postman
-* Azure Administration
-* CI/CD pipeline: Azure DevOps, GitLab
-* Git/GitHub
-* React Native
+- **.NET:** ASP.NET MVC, ASP.NET Web API, C#, Blazor, Entity Framework Core, Swagger API
+- **Front-End:** HTML5, CSS3, JavaScript
+- **Mobile Development:** MAUI, Xamarin (Android, iOS, Windows)
+- **Cloud:** Azure (Azure Logic Apps, Storage Services, ADF), Azure DevOps
+- **Containerization:** Docker
+- **Version Control:** Git/GitHub
+- **Architecture:** Microservices, Clean Architecture, Slice Patterns
+- **Databases:** SQL (SQL Server, PostgreSQL, MySQL), NoSQL (MongoDB)
+- **Soft Skills:** Team Collaboration, Project Management, Agile Methodology
 
-**Contact**
-> 📫 How to reach me: Email: ogunyekunmi@gmail.com, Tel: +44 7785364352
-<!--
-**ogunye/ogunye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Professional Experience
 
-Here are some ideas to get you started: 
+### Volunteer Software Developer (Remote) | Rainham Food Bank, London | 09/2023 – Present
+- Developed a customized CRM system to enhance volunteer coordination efficiency.
+- Provided technical support for the website, improving uptime and user experience.
+- Implemented API integrations to enhance platform data sharing, improving service delivery.
+- Designed and maintained databases, ensuring data integrity and easy retrieval of client information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lead Technical Trainer/.NET Trainer | The Bulb Africa, Nigeria | 01/2023 – 07/2023
+- Designed and supervised 7 projects for 50+ fellows, improving project quality by 15%.
+- Directed teams in project scoping, planning, and testing using Scrum, increasing completion rates by 30%.
+- Coordinated 20+ expert sessions, enhancing team problem-solving capabilities by 35%.
+- Mentored fellows through pair programming and regular check-ins, elevating code quality by 40%.
+- Conducted 200+ code reviews and managed product releases, reducing defects by 35%.
+
+### Lead Application / SQL Developer | Intelfort Nigeria Limited, Nigeria | 05/2022 – 12/2022
+- Developed and maintained .NET applications with Azure services, increasing reliability by 20%.
+- Managed data migrations using Azure Data Factory, reducing migration time by 30%.
+- Automated workflows with Azure Logic Apps, enhancing operational efficiency by 30%.
+- Streamlined storage solutions, lowering costs by 25%.
+- Trained junior developers, boosting productivity by 25%.
+- Implemented CI/CD with Azure DevOps, reducing deployment time by 40%.
+
+### C# Developer/Backend Engineer (Remote) | AutoMedSys, USA | 05/2020 – 03/2021
+- Developed EHR applications using C#, ASP.NET Web API, Dapper, and SQL Server.
+- Migrated legacy systems to .NET, improving reliability by 40%.
+- Participated in Agile ceremonies, enhancing team productivity by 20%.
+- Supported CI/CD pipelines with Jenkins, decreasing deployment times by 60%.
+
+### Tech Support Team Lead | Lekki Concession Company, Nigeria | 04/2012 – 03/2021
+- Resolved technical issues in tolling software, reducing downtime by 25%.
+- Led maintenance tasks, increasing system reliability by 30%.
+- Tested new equipment, ensuring functionality and reliability.
+- Scheduled preventative maintenance, lowering repair costs by 20%.
+
+## 🎓 Education
+
+**Bachelor's Degree in Mathematics and Computer Science**  
+Federal University of Technology, Minna, Niger State, Nigeria | 2008
+
+## 🌍 Currently...
+
+I recently relocated to the United Kingdom and have been retraining in backend development, with a focus on Microservices architecture and .NET MAUI. During this time, I've also been volunteering as a Software Developer at Rainham Food Bank, contributing to key projects and enhancing operational efficiency.
+
