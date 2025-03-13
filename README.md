@@ -1,6 +1,6 @@
 # 🚀 Olufikunmi Ogunye - .NET Developer  
 
-### Software Developer | .NET 8 | Clean Architecture | SQL | Azure  
+### Software Developer | .NET 8 | Clean Architecture | SQL | Azure Solution Developer
 
 👋 **Welcome to my GitHub!** I am a passionate **.NET backend developer** specializing in **C#, ASP.NET Core, SQL Server, and cloud-based solutions**.  
 I focus on **building scalable applications** using **Clean Architecture, Microservices, and Azure**.  
